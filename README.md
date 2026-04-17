@@ -1,4 +1,4 @@
-# ZHIYII/Github_Qwen3_32B_20260417_0857 - Private, Uncensored AI for Real Creators and Devs
+# ZHIYII/Github_Qwen3_32B_20260417_0857  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
